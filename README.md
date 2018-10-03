@@ -1,3 +1,5 @@
+trigger 1
+
 # Composer Template for WordPress Projects
 
 This project template should provide a kickstart for managing your site dependencies with [Composer](https://getcomposer.org/).
