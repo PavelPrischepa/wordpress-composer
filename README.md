@@ -1,4 +1,4 @@
-trigger 2
+trigger 3
 
 # Composer Template for WordPress Projects
 
